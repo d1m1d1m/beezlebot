@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.venv/
+
+# Editeur
+.vscode/
+
+# Security
+.env
